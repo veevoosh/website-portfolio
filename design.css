@@ -280,9 +280,13 @@ footer {
     position: relative;
     width: 50%;
     height: 10%;
-    margin-top: -205px;
+    margin-top: -240px;
     margin-left: -320px;
     overflow: hidden;
+}
+
+.edu-link {
+    color: #833535
 }
 
 /* Contact Text Design */
