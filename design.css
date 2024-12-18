@@ -289,6 +289,10 @@ footer {
     color: #833535
 }
 
+.edu-link:hover {
+    color: #cb6363
+}
+
 /* Contact Text Design */
 
 .contact-header {
@@ -322,4 +326,8 @@ footer {
 
 .github-links {
     color: #833535
+}
+
+.github-links:hover {
+    color: #cb6363
 }
