@@ -322,6 +322,14 @@ footer {
     overflow: hidden;
 }
 
+.contact-links {
+    color: #833535
+}
+
+.contact-links:hover {
+    color: #cb6363
+}
+
 /* Download Links Design */
 
 .github-links {
